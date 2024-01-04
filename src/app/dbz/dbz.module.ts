@@ -12,3 +12,17 @@ import { AddComponent } from './components/add/add.component';
   exports: [MainPageComponent],
 })
 export class DbzModule {}
+
+
+
+function stop() {
+  throw new Error('Function not implemented.');
+}
+function sad(): void {
+  throw new Error('Function not implemented.');
+}
+
+function beAwesome() {
+  throw new Error('Function not implemented.');
+}
+
